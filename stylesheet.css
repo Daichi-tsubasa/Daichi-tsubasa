@@ -39,7 +39,7 @@
 
 }
 
-@media(max-width: 0px){
+@media(max-width: 1000px){
   .title h1{
     color:green;
   }
