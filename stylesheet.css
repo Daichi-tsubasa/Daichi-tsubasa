@@ -1,4 +1,4 @@
-**{
+*{
   box-sizing: border-box;
 }
 
@@ -43,4 +43,9 @@
   .title h1{
     color:green;
   }
+}
+
+.img{
+  height:90px;
+  width:100px;
 }
